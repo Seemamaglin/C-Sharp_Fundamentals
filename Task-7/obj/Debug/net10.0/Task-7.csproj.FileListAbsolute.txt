@@ -1,0 +1,15 @@
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/bin/Debug/net10.0/Task-7
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/bin/Debug/net10.0/Task-7.deps.json
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/bin/Debug/net10.0/Task-7.runtimeconfig.json
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/bin/Debug/net10.0/Task-7.dll
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/bin/Debug/net10.0/Task-7.pdb
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/Task-7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/Task-7.AssemblyInfoInputs.cache
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/Task-7.AssemblyInfo.cs
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/Task-7.csproj.CoreCompileInputs.cache
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/Task-7.sourcelink.json
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/Task-7.dll
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/refint/Task-7.dll
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/Task-7.pdb
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/Task-7.genruntimeconfig.cache
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-7/obj/Debug/net10.0/ref/Task-7.dll
