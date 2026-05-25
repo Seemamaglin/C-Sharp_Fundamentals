@@ -1,0 +1,2 @@
+Hi,
+This is a C# file I/O example
