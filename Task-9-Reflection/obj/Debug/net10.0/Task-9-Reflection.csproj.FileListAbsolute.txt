@@ -1,0 +1,15 @@
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/bin/Debug/net10.0/Task-9-Reflection
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/bin/Debug/net10.0/Task-9-Reflection.deps.json
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/bin/Debug/net10.0/Task-9-Reflection.runtimeconfig.json
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/bin/Debug/net10.0/Task-9-Reflection.dll
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/bin/Debug/net10.0/Task-9-Reflection.pdb
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/Task-9-Reflection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/Task-9-Reflection.AssemblyInfoInputs.cache
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/Task-9-Reflection.AssemblyInfo.cs
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/Task-9-Reflection.csproj.CoreCompileInputs.cache
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/Task-9-Reflection.sourcelink.json
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/Task-9-Reflection.dll
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/refint/Task-9-Reflection.dll
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/Task-9-Reflection.pdb
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/Task-9-Reflection.genruntimeconfig.cache
+/Users/seemamaglin/Documents/Presidio_tasks/C#/Task-9-Reflection/obj/Debug/net10.0/ref/Task-9-Reflection.dll
